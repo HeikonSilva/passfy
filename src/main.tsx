@@ -14,7 +14,7 @@ import Help from './app/help/Help'
 import './index.css'
 
 createRoot(document.getElementById('root')!).render(
-  <BrowserRouter>
+  <BrowserRouter basename="/passfy/">
     <Routes>
       <Route index element={<Landing />} />
       <Route path="auth" element={<Auth />} />
