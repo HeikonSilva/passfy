@@ -1,0 +1,46 @@
+{
+  "user": {
+    "name": "shadcn",
+    "email": "m@example.com",
+    "avatar": "/avatars/shadcn.jpg"
+  },
+  "navMain": [
+    {
+      "title": "Dashboard",
+      "url": "/dashboard",
+      "icon": "LayoutDashboardIcon"
+    },
+    {
+      "title": "Generator",
+      "url": "/generator",
+      "icon": "Dice5"
+    },
+    {
+      "title": "Cloud",
+      "url": "/cloud",
+      "icon": "Cloud"
+    },
+    {
+      "title": "Have I Been Pwned?",
+      "url": "/check",
+      "icon": "Binoculars"
+    },
+    {
+      "title": "Import and Export",
+      "url": "/external",
+      "icon": "FileUp"
+    }
+  ],
+  "navSecondary": [
+    {
+      "title": "Settings",
+      "url": "/settings",
+      "icon": "SettingsIcon"
+    },
+    {
+      "title": "Get Help",
+      "url": "/help",
+      "icon": "HelpCircleIcon"
+    }
+  ]
+}
